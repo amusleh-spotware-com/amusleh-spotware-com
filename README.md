@@ -29,4 +29,3 @@ My path is a bit unusual: I spent years on the *other* side of the platform firs
 ## 📫 Reach me
 
 - Email: **nomanmusleh@gmail.com**
-- cTrader community: [afhacker](https://community.ctrader.com/users/profile/8034/)
