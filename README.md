@@ -30,12 +30,3 @@ My path is a bit unusual: I spent years on the *other* side of the platform firs
 
 - Email: **nomanmusleh@gmail.com**
 - cTrader community: [afhacker](https://community.ctrader.com/users/profile/8034/)
-
----
-
-## Notes (not part of the README)
-
-- **Pin these 6 repos** on the profile: `terse-sharp`, `NetTrade`, `cAlgo.API.Extensions`, `cAlgo.API.Extensions.Series`, `cmind`, `ctrader-alert_popup`.
-- Dropped from old README: the 19-icon logo wall (says nothing, loads slow), the Herokuapp streak-stats image (that service is frequently dead — broken image on your profile), and the generic "Ask me about" line.
-- Why this shape works: story first (community dev → platform engineer — memorable, unique), then proof (projects table with real descriptions), then stack as one compact line. Recruiters and collaborators read top-to-bottom in ~30 s.
-- Optional add-on if you want visuals: a single `github-readme-stats` card (`https://github-readme-stats.vercel.app/api?username=amusleh-spotware-com&show_icons=true&theme=default`) under the projects table — one card max, not three.
